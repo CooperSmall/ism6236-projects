@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\ISM6236\Homework\smallcooperasg4\smalldblib\bin\Debug\smalldblib.dll
+C:\Users\owner\Desktop\ISM6236\Homework\smallcooperasg4\smalldblib\bin\Debug\smalldblib.pdb
+C:\Users\owner\Desktop\ISM6236\Homework\smallcooperasg4\smalldblib\obj\Debug\smalldblib.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\ISM6236\Homework\smallcooperasg4\smalldblib\obj\Debug\smalldblib.dll
+C:\Users\owner\Desktop\ISM6236\Homework\smallcooperasg4\smalldblib\obj\Debug\smalldblib.pdb
+C:\Users\owner\Desktop\ISM6236\Homework\smallcooperasg4\smalldblib\obj\Debug\smalldblib.csprojResolveAssemblyReference.cache
